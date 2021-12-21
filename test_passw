@@ -1,0 +1,14 @@
+# testa password
+
+password = "y4j"
+access_control = False
+
+test = input("Enter password: ")
+
+if test == password:
+  access_control = True
+else:
+  print("Access denied!")
+
+if access_control == True:
+  print("You have access to the system!")
