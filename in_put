@@ -1,0 +1,10 @@
+# Jag lade in en input för att kunna printa ut mitt namn med en god herre som kallar mig för "sir"!
+# Daniel Lagerström, 21-12-21
+
+
+
+
+
+z = "sir"
+x = input("Enter your name" + ", " + z + ": ")
+print("Your name is " + x + ", " + z + ".")
