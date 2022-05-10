@@ -1,6 +1,6 @@
 # testa password
 
-password = "y4j"
+password = "ABC123"
 access_control = False
 
 test = input("Enter password: ")
